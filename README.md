@@ -24,3 +24,8 @@ The code was executed using Anaconda cmd prompt (downloaded with numpy and panda
 4. [Unnamed Column](https://stackify.dev/713141-rename-unnamed-column-pandas-dataframe)
 5. [Time Difference](https://stackoverflow.com/questions/22923775/calculate-time-difference-between-two-pandas-columns-in-hours-and-minutes)
 6. [Index in Python](https://docs.python.org/3/library/index.html)
+
+##Project Bikeshare overview:
+This project use data of using shared bikes in three different cities: New York, Washington, and Chicago.
+The purpose of this project is to allow the user to explore the business of the company in an interactive way
+The user can learn about most commonly used stations and some deomographic facts by applying filters (day, month, both or none)
