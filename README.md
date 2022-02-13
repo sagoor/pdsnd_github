@@ -1,18 +1,17 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+##Project title: 
+Bikeshare
 
-### Date created
-Include the date you created this project and README file.
+##Project Date: 
+Project was developed on February 6 and documented by this README file on February 13
 
-### Project Title
-Replace the Project Title
+##Repository:
+###Overview:
+This repository is forked from GitHup and modefid to include the following files:
+-Bikeshare.py
+-Chicago.csv
+-New_york_city.csv
+-Washington.csv
 
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-This markdown was written using [githup guidelines](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+##Software
+The project was developed by python on Atom code editor.
+The code was executed using Anaconda cmd prompt (downloaded with numpy and pandas package)
