@@ -1,3 +1,9 @@
+# Code Overview:
+# This code contains different data strucutre such as: Lists, Dictionaries, and assigned variables
+# Also, it containts contains conditional statements such as: for, and while loops.
+# The code below contains a number of functions that take an input and appliy at as filter to the dataset
+# Depending on the input from the user, the output will be a set of statstics and facts about Bikeshare trips
+
 #This section of the code will contains the packages used:
 import pandas as pd
 import numpy as np
