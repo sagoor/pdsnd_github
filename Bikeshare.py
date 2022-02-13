@@ -4,6 +4,14 @@
 # The code below contains a number of functions that take an input and appliy at as filter to the dataset
 # Depending on the input from the user, the output will be a set of statstics and facts about Bikeshare trips
 
+# Code flow:
+# First, The user will be prompt to enter the name of city (New York, Washington, or Chicago).
+# Second, the user will be asked to choose which time frame to be used (Specfic month, day, both, or none).
+# Next, the program will geenrate a number of pre-defined statics and output based on the filters selected to the user.
+# After that, the user will be asked if he/she wishes to see raw (strucuted) data.
+# If the user selected yes, then the user wil be asked again iteretively to see next 5 rows of the raw data.
+# Finally, if the user selected no, the program will stop.
+
 #This section of the code will contains the packages used:
 import pandas as pd
 import numpy as np
