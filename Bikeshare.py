@@ -11,7 +11,7 @@ months = {'January' : 1 , 'February' : 2,  'March' : 3, 'April' : 4, 'May': 5, '
 #This section shows the code for the filers defined within the filters function:
 
 #The code starts by capturing the user input of the city:
-message1 = 'Hi there!.\nPlease answer the following questions to provide you with an overview about bikeshare. \nPlease enter the neme of the city you would like to learn about our business in New York, Washington, or Chicago? \n'
+message1 = 'Hi there!.\nPlease enter the neme of the city [New York, Washington, Chicago] you would like to learn more about our business \n'
 city = input(message1).lower().title()
 while not (city =='New York' or city == 'Chicago' or city == 'Washington'):
     print('You entered wrong input \n')
